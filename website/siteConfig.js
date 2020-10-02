@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'hema-thota',
-        twitter: 'hema_thota',
+        twitter: '',
         github: 'hemathota',
     },
 
